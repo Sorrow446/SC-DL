@@ -1,0 +1,7 @@
+m3u8
+tqdm
+mutagen
+requests
+# Only needed for Chrome cooking dumping.
+pywin32
+pycryptodomex
