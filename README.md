@@ -16,7 +16,7 @@ First build. Please report any issues.
 ## Setup
 1. Put [FFmpeg binary (win64, gpl)](https://github.com/BtbN/FFmpeg-Builds/releases) in SC-DL's folder.
 2. Fill in `config.json` (any specified CLI arguments will override these).
-3. Dump cookies using chrome_cookies.py/chrome_cookies_x86.exe for Chrome or firefox_cookies.py/firefox_cookies_x86.exe for Firefox. You can also use a browser extension such as [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) (cookies file must be named "cookies.txt" and in Netscape format).
+3. Dump cookies using chrome_cookies.py/chrome_cookies_x86.exe for Chrome or firefox_cookies.py/firefox_cookies_x86.exe for Firefox (login first). You can also use a browser extension such as [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) (cookies file must be named "cookies.txt" and in Netscape format).
 4. Call it with your args via Command Prompt. `sc-dl.py/sc-dl_x86.exe -u <media url>`
 
 ## Usage Examples
