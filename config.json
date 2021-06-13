@@ -1,0 +1,23 @@
+{
+    "output_path": "SC-DL downloads",
+    "quality": 4,
+    "fname_template": "{trackpadded}. {title}",
+    "keep_cover": false,
+    "media_types": {
+		"artist_albums": {
+			"folder_template": "{username}"
+        },
+        "artist_tracks": {
+			"folder_template": "{username}"
+        },
+        "track": {
+			"folder_template": ""
+		},
+        "set": {
+        	"folder_template": "{albumartist} - {album}"
+        },
+        "user_likes": {
+        	"folder_name": "Likes"
+        }
+    }
+}
