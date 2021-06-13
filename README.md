@@ -13,6 +13,13 @@ First build. Please report any issues.
 |Track|`https://soundcloud.com/x/x https://soundcloud.com/x/x?in=x/sets/x`
 |User likes|`https://soundcloud.com/you/likes`
 
+|Type|Availability|
+| --- | --- |
+|64 Kbps Opus|Sometimes.
+|128 Kbps MP3|Always.
+|256 Kbps AAC|Sometimes.
+|WAV, FLAC etc (download button).|Sometimes.
+
 ## Setup
 1. Put [FFmpeg binary (win64, gpl)](https://github.com/BtbN/FFmpeg-Builds/releases) in SC-DL's folder.
 2. Fill in `config.json` (any specified CLI arguments will override these).
